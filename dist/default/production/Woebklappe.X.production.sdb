@@ -1,0 +1,81 @@
+[p LITE_MODE AUTOSTATIC PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F15323 ]
+[d frameptr 6 ]
+"17 C:\Users\JM_BaSyTec\MPLABXProjects\Woebklappe.X\ADCcon.c
+[v _triggerConversion triggerConversion `T(v  1 e 1 0 ]
+"22
+[v _waitConversionDone waitConversionDone `T(v  1 e 1 0 ]
+"28
+[v _getConversionResult getConversionResult `T(ui  1 e 2 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"15 C:\Users\JM_BaSyTec\MPLABXProjects\Woebklappe.X\initialize.c
+[v _initializePIC initializePIC `(v  1 e 1 0 ]
+"16 C:\Users\JM_BaSyTec\MPLABXProjects\Woebklappe.X\main_woelbklappe.c
+[v _main main `(i  1 e 2 0 ]
+"544 C:\Program Files (x86)\Microchip\xc8\v1.45\include\pic16f15323.h
+[v _TRISA TRISA `VEuc  1 e 1 @18 ]
+"589
+[v _TRISC TRISC `VEuc  1 e 1 @20 ]
+"639
+[v _LATA LATA `VEuc  1 e 1 @24 ]
+"684
+[v _LATC LATC `VEuc  1 e 1 @26 ]
+"741
+[v _ADRESL ADRESL `VEuc  1 e 1 @155 ]
+"811
+[v _ADRESH ADRESH `VEuc  1 e 1 @156 ]
+"952
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @158 ]
+"16784
+[v _ANSELA ANSELA `VEuc  1 e 1 @7992 ]
+"16829
+[v _WPUA WPUA `VEuc  1 e 1 @7993 ]
+"16879
+[v _ODCONA ODCONA `VEuc  1 e 1 @7994 ]
+"16924
+[v _SLRCONA SLRCONA `VEuc  1 e 1 @7995 ]
+"16969
+[v _INLVLA INLVLA `VEuc  1 e 1 @7996 ]
+"17069
+[v _IOCAN IOCAN `VEuc  1 e 1 @7998 ]
+"17169
+[v _ANSELC ANSELC `VEuc  1 e 1 @8014 ]
+"17219
+[v _WPUC WPUC `VEuc  1 e 1 @8015 ]
+"17269
+[v _ODCONC ODCONC `VEuc  1 e 1 @8016 ]
+"17319
+[v _SLRCONC SLRCONC `VEuc  1 e 1 @8017 ]
+"17369
+[v _INLVLC INLVLC `VEuc  1 e 1 @8018 ]
+"18646
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"18830
+[v _LATA0 LATA0 `VEb  1 e 0 @192 ]
+"18834
+[v _LATA2 LATA2 `VEb  1 e 0 @194 ]
+"18840
+[v _LATC0 LATC0 `VEb  1 e 0 @208 ]
+"18842
+[v _LATC1 LATC1 `VEb  1 e 0 @209 ]
+"18844
+[v _LATC2 LATC2 `VEb  1 e 0 @210 ]
+"18846
+[v _LATC3 LATC3 `VEb  1 e 0 @211 ]
+"19702
+[v _PEIE PEIE `VEb  1 e 0 @94 ]
+"16 C:\Users\JM_BaSyTec\MPLABXProjects\Woebklappe.X\main_woelbklappe.c
+[v _main main `(i  1 e 2 0 ]
+{
+"28
+} 0
+"15 C:\Users\JM_BaSyTec\MPLABXProjects\Woebklappe.X\initialize.c
+[v _initializePIC initializePIC `(v  1 e 1 0 ]
+{
+"98
+} 0

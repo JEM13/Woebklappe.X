@@ -1,0 +1,1 @@
+ build/default/production/main_woelbklappe.d  build/default/production/main_woelbklappe.p1:  main_woelbklappe.c initialize.h DigIO.h ADCcon.h config.h
