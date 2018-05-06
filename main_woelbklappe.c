@@ -57,6 +57,7 @@ int main(int argc, char** argv) {
             LED_2_OFF();
         }
         
+        
         if(currentFlapPos<=led3_Threshold.min && currentFlapPos>led4_Threshold.max) {
             LED_3_ON();
         }else {
